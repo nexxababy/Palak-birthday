@@ -25,7 +25,7 @@ a {
 #text {
   width: 272px;
   height: 560px;
-  right: 40px;     /* 🔥 aur right */
+  left: 40px;     /* 🔥 aur left */
   top: 80px;
   position: absolute;
 }
@@ -89,6 +89,7 @@ a {
 #canvas {
   box-shadow: 0 0 30px rgba(180, 90, 255, 0.6);
 }
+
 
 
 
