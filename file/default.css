@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: url("../bg.jpg") no-repeat center center fixed;
+  background: url("https://files.catbox.moe/69q69w.jpg") no-repeat center center fixed;
   background-size: cover;
   color: white;
   font-size: 14px;
@@ -89,4 +89,5 @@ a {
 #canvas {
   box-shadow: 0 0 30px rgba(180, 90, 255, 0.6);
 }
+
 
