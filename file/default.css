@@ -85,3 +85,8 @@ a {
 
 
 }
+/* ===== Tree Leaf Glow Effect ===== */
+#canvas {
+  box-shadow: 0 0 30px rgba(180, 90, 255, 0.6);
+}
+
