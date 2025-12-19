@@ -1,9 +1,9 @@
 body {
   margin: 0;
   padding: 0;
-  background: url("https://files.catbox.moe/69q69w.jpg") no-repeat center center fixed;
+  background: url("https://files.catbox.moe/69q69w.jpg") no-repeat center above  fixed;
   background-size: Half;
-  color: white;
+  color: purple;
   font-size: 14px;
   font-family: sans-serif;
   overflow: auto;
@@ -89,6 +89,7 @@ a {
 #canvas {
   box-shadow: 0 0 30px rgba(180, 90, 255, 0.6);
 }
+
 
 
 
