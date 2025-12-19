@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: url("https://files.catbox.moe/69q69w.jpg") no-repeat above fixed;
+  background: url("https://files.catbox.moe/69q69w.jpg") no-repeat above above fixed;
   background-size: Half;
   color: purple;
   font-size: 14px;
@@ -89,6 +89,7 @@ a {
 #canvas {
   box-shadow: 0 0 30px rgba(180, 90, 255, 0.6);
 }
+
 
 
 
